@@ -1,6 +1,7 @@
 @extends('layouts.Guest')
 
 @section('content')
+
 <style>
     .hero-section {
         background: linear-gradient(135deg, #aad2c1 0%, #7fb6a4 100%);
