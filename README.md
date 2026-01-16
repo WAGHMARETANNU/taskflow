@@ -1,6 +1,7 @@
 # Taskflow: Enterprise Task Management 🚀
 
 [![PHP Quality Check](https://github.com/WAGHMARETANNU/taskflow/actions/workflows/php-ci.yml/badge.svg)](https://github.com/WAGHMARETANNU/taskflow/actions/workflows/php-ci.yml)
+
 A robust task management system engineered with the Laravel framework, focusing on secure data handling, architectural integrity, and role-based access control (RBAC).
 
 ## 🛠️ Technical Stack
